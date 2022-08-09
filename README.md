@@ -1,2 +1,2 @@
-# Random_Tahmin_oyunu
- Random_Tahmin_oyunu
+# number guessing game
+number guessing game
